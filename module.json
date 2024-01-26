@@ -28,8 +28,8 @@
 		}
 	],
 	"socket": true,
-	"url": "https://github.com/KayelGee/DrawingTokenizer",
-  "manifest": "https://raw.githubusercontent.com/KayelGee/DrawingTokenizer/master/module.json",
-  "download": "https://github.com/KayelGee/DrawingTokenizer/releases/download/v2.1.2/v2.1.2.zip",
-  "readme": "https://github.com/KayelGee/DrawingTokenizer/blob/v2.1.2/README.md"
+	"url": "https://github.com/AshleyNR/DrawingTokenizer",
+  "manifest": "https://raw.githubusercontent.com/AshleyNR/DrawingTokenizer/master/module.json",
+  "download": "https://github.com/AshleyNR/DrawingTokenizer/releases/download/v2.1.2/v2.1.2.zip",
+  "readme": "https://github.com/AshleyNR/DrawingTokenizer/blob/v2.1.2/README.md"
 }
