@@ -30,6 +30,6 @@
 	"socket": true,
 	"url": "https://github.com/AshleyNR/DrawingTokenizer",
   "manifest": "https://raw.githubusercontent.com/AshleyNR/DrawingTokenizer/master/module.json",
-  "download": "https://github.com/AshleyNR/DrawingTokenizer/releases/download/v2.1.2/v2.1.2.zip",
+  "download": "https://github.com/AshleyNR/DrawingTokenizer/archive/refs/tags/Latest.zip",
   "readme": "https://github.com/AshleyNR/DrawingTokenizer/blob/v2.1.2/README.md"
 }
